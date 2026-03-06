@@ -33,9 +33,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaomarcelo&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaomarcelo&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact)
+
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=devjoaomarcelo&color=blue)
 
