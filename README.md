@@ -36,12 +36,18 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaomarcelo&show_icons=true)
 
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact)
 
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=devjoaomarcelo&color=blue)
+
+## 🔥 Sequência de commits
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devjoaomarcelo&theme=tokyonight)
+
+## 📈 Gráfico de contribuições
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoaomarcelo&theme=tokyo-night)
 
 
 ![Snake animation](https://github.com/devjoaomarcelo/devjoaomarcelo/blob/output/github-contribution-grid-snake.svg)
