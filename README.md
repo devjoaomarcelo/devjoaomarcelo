@@ -37,7 +37,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact)
 
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=devjoaomarcelo&color=blue)
 
 ## 🔥 Sequência de commits
