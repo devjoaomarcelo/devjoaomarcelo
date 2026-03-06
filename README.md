@@ -49,5 +49,6 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devjoaomarcelo&theme=tokyo-night)
 
+![Snake animation](https://github.com/devjoaomarcelo/devjoaomarcelo/blob/output/github-contribution-grid-snake.svg)
 
 
