@@ -35,7 +35,6 @@
 
 ![GitHub Stats](https://github-readme-stats-devjoaomarcelo.vercel.app)
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact)
 
 
