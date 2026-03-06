@@ -20,6 +20,9 @@
 </p>
 
 📫 Contato:
+
 📧 Email: dev.joaomarcelo@gmail.com
+
 💼 LinkedIn: [João Marcelo](https://www.linkedin.com/in/devjoaomarcelo)
+
 🐙 GitHub: https://github.com/devjoaomarcelo
