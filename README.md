@@ -20,4 +20,4 @@
 </p>
 
 📫 Contato:
-- LinkedIn: [João Marcelo](https;//www.linkedin.com/in/devjoaomarcelo)
+- LinkedIn: [João Marcelo](https://www.linkedin.com/in/devjoaomarcelo)
