@@ -33,7 +33,7 @@
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devjoaomarcelo&show_icons=true)
+![GitHub Stats](https://vercelstats-amber.vercel.app)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaomarcelo&layout=compact)
