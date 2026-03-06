@@ -43,3 +43,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=devjoaomarcelo&color=blue)
 
+
+![Snake animation](https://github.com/devjoaomarcelo/devjoaomarcelo/blob/output/github-contribution-grid-snake.svg)
+
+
